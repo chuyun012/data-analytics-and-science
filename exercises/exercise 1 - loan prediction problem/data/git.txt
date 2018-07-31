@@ -1,0 +1,15 @@
+git remote add origin "my own directory:SSH key"
+Push
+1. git remote -v
+2. git add TAB then Type keyword
+3. git commit -m "geef een leuk naam"
+4. git push origin master
+
+How to pull from blessed
+step one is one time only
+1.git remote add blessed "SSH key of Blessed repository"
+2. git pull blessed master
+
+
+If enter NANO editor after pull
+control X, yes enter
